@@ -1,0 +1,51 @@
+course_id,course_name,course_category,teacher_id,course_start_date
+1,Full Stack Developer,Software Development,30,2023-08-17
+2,Cyber,Data Science & Security,,2023-11-27
+3,Product Manager,Product & Business Strategy,14,2023-06-28
+4,AI Developer,Software Development,16,2023-11-21
+5,DevOps Engineer,Software Development,21,2023-01-23
+6,AI Developer,Software Development,7,2023-12-08
+7,Full Stack Developer,Software Development,,2023-12-17
+8,AI Developer,Software Development,14,2023-03-25
+9,AI Developer,Software Development,7,2023-09-09
+10,DevOps Engineer,Software Development,10,2023-06-17
+11,Cyber,Data Science & Security,9,2023-10-13
+12,Cyber,Data Science & Security,20,2023-11-07
+13,Full Stack Developer,Software Development,35,2023-10-20
+14,QA,Software Development,1,2023-12-19
+15,DevOps Engineer,Software Development,17,2023-10-11
+16,DevOps Engineer,Software Development,,2023-02-15
+17,Product Manager,Product & Business Strategy,,2023-07-15
+18,Full Stack Developer,Software Development,11,2023-11-23
+19,Full Stack Developer,Software Development,24,2023-04-03
+20,Full Stack Developer,Software Development,20,2023-09-23
+21,Full Stack Developer,Software Development,22,2023-08-23
+22,AI Developer,Software Development,30,2023-04-25
+23,Cyber,Data Science & Security,18,2023-10-04
+24,AI Developer,Software Development,18,2023-10-11
+25,Cyber,Data Science & Security,23,2023-05-28
+26,Cyber,Data Science & Security,5,2023-12-09
+27,Full Stack Developer,Software Development,3,2023-09-28
+28,Full Stack Developer,Software Development,20,2023-04-09
+29,AI Developer,Software Development,28,2023-04-06
+30,Product Manager,Product & Business Strategy,6,2023-04-03
+31,Full Stack Developer,Software Development,3,2023-12-23
+32,Product Manager,Product & Business Strategy,28,2023-01-14
+33,Product Manager,Product & Business Strategy,4,2023-12-16
+34,Cyber,Data Science & Security,25,2023-02-24
+35,AI Developer,Software Development,21,2023-06-22
+36,Product Manager,Product & Business Strategy,31,2023-04-17
+37,AI Developer,Software Development,5,2023-02-21
+38,Cyber,Data Science & Security,9,2023-09-30
+39,DevOps Engineer,Software Development,21,2023-04-07
+40,AI Developer,Software Development,12,2023-09-02
+41,DevOps Engineer,Software Development,25,2023-02-08
+42,Product Manager,Product & Business Strategy,10,2023-12-29
+43,AI Developer,Software Development,6,2023-09-12
+44,AI Developer,Software Development,5,2023-03-04
+45,AI Developer,Software Development,9,2023-06-27
+46,DevOps Engineer,Software Development,,2023-05-28
+47,AI Developer,Software Development,3,2023-04-15
+48,Product Manager,Product & Business Strategy,2,2023-10-17
+49,Cyber,Data Science & Security,29,2023-03-02
+50,Full Stack Developer,Software Development,27,2023-09-07
